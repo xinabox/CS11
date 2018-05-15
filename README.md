@@ -1,4 +1,5 @@
 # ☒CHIP CS11
+<img src="extras/CS11 V0.5.0.JPG" width="35%" height="auto" align="right">
 
 Core CPU Module based on ATSAMD21G18.
 This module can be purchased on [Xinabox CC](https://xinabox.cc/products/CS11/).
